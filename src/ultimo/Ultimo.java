@@ -7,6 +7,8 @@ public class Ultimo {
 		
 		System.out.println("Hola");
 		System.out.println("adios");
+		
+		System.out.println("Otra persona");
 
 	}
 
